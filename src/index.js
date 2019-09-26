@@ -1,3 +1,4 @@
+import $ from 'jquery';
 import './jquery_cookie.js';
 
 (function($) {
