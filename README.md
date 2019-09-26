@@ -1,5 +1,5 @@
 # emiller
-A customizable responsive popup to encourage Mailchimp subscriptions.
+A customizable responsive popup to encourage Mailchimp subscriptions. The modal will fade in 5 seconds after the page loads.
 
 [View the demo](https://skycatchfire.github.io/emiller/demo/demo.html)
 
