@@ -1,5 +1,5 @@
 # emiller
-Pop up modal for website CTA
+A customizable popup to encourage Mailchimp subscriptions.
 
 ## Modifying 
 - Download this repo as zip, open the demo.html file in the demo folder and go nuts.
@@ -14,14 +14,28 @@ The pop up will store a cookie based on the users response.
 
 You may need to clear your cookies when making edits to view the modal.
 
-## webpack instructions
-Clone this repo
+## Develop
+
+1. Clone this repo
+
+```
+  $ git clone https://github.com/skycatchfire/emiller emiller
+```
+
+2. Change directories
+
+```
+$ cd emiller
+```
+
+3. Install npm packages
 
 ```
 $ npm install
 ```
+
+4. Run debug
+
 ```
 $ npm run debug
 ```
-
-
