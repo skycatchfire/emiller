@@ -1,5 +1,3 @@
-import './jquery_cookie.js';
-
 (function($) {
   $(function() {
     var signupChannel = localStorage.getItem('emiller.signup-channel');
