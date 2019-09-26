@@ -25,17 +25,17 @@ You may need to clear your cookies when making edits to view the modal.
 2. Change directories
 
 ```
-$ cd emiller
+  $ cd emiller
 ```
 
 3. Install npm packages
 
 ```
-$ npm install
+  $ npm install
 ```
 
 4. Run debug
 
 ```
-$ npm run debug
+  $ npm run debug
 ```
