@@ -9,8 +9,8 @@ Pop up modal for website CTA
 
 *Cookies will not work through a file://*
 
-## Clearing Cookies
-The pop up will store a cookie based on the users response. If they click the Join button they will no longer see this message until the cookie expires.
+## Clearing cookies
+The pop up will store a cookie based on the users response.
 
 You may need to clear your cookies when making edits to view the modal.
 
