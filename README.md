@@ -1,4 +1,4 @@
-# Emiller
+# emiller
 Popup modal for website CTA
 
 ## Setup Instruction
