@@ -1,7 +1,7 @@
 # emiller
 Pop up modal for website CTA
 
-## Modifining 
+## Modifying 
 - Download this repo as zip, open the demo.html file in the demo folder and go nuts.
 - All the contents of this folder and jQuery are required.
 - Make sure you set a destination url for the button. (line 25)
@@ -10,7 +10,7 @@ Pop up modal for website CTA
 *Cookies will not work through a file://*
 
 ## Clearing Cookies
-The pop up will store a cookie based on the users response. If they click the Join button they will no longer see this message untill the cookie expires.
+The pop up will store a cookie based on the users response. If they click the Join button they will no longer see this message until the cookie expires.
 
 You may need to clear your cookies when making edits to view the modal.
 
