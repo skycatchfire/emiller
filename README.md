@@ -1,6 +1,8 @@
 # emiller
 A customizable responsive popup to encourage Mailchimp subscriptions.
 
+[View the demo link](https://skycatchfire.github.io/emiller/demo/demo.html)
+
 ## Modifying 
 - Download this repo as zip, open the demo.html file in the demo folder and go nuts.
 - All the contents of this folder and jQuery are required.
