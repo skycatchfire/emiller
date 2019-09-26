@@ -15,8 +15,13 @@ The pop up will store a cookie based on the users response.
 You may need to clear your cookies when making edits to view the modal.
 
 ## webpack instructions
-1. Clone this repo
-2. $ npm install 
-3. $ npm run debug
+Clone this repo
+
+```
+$ npm install
+```
+```
+$ npm run debug
+```
 
 
