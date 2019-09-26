@@ -1,12 +1,12 @@
 # emiller
-A customizable responsive popup to encourage Mailchimp subscriptions.
+A customizable responsive popup to encourage Mailchimp subscriptions. The modal will fade in 5 seconds after the page loads.
 
 [View the demo](https://skycatchfire.github.io/emiller/demo/demo.html)
 
 ## Modifying 
 - Download this repo as zip, open the demo.html file in the demo folder and go nuts.
 - All the contents of this folder and jQuery are required.
-- Make sure you set a destination url for the button. (line 26)
+- Make sure you set a destination url for the button. (line 27)
 - Change offer and content but be sure to make the same changes for screen readers. These elements will have the class="sr-only".
 
 *Cookies will not work through a file://*
