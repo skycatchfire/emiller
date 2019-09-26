@@ -16,7 +16,7 @@ You may need to clear your cookies when making edits to view the modal.
 
 ## webpack instructions
 1. Clone this repo
-2. NPM install 
-3. NPM run debug
+2. $ npm install 
+3. $ npm run debug
 
 
